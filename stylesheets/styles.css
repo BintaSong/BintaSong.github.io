@@ -57,7 +57,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Times New Roman", sans-serif;
+  font: 14px/1.5 "Noto Sans", Calibri, "Times New Roman", sans-serif;
   color:#727272;
   font-weight:400;
 }
